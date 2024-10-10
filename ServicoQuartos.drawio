@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1165" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="699" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,28 @@
         </mxCell>
         <mxCell id="188S0xd9ToCCXMYDWvKy-55" value="Gestor do Hotel" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="235" y="820" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-56" value="Reserva quarto" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="0.0104" width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="148.32999999999998" as="sourcePoint" />
+            <mxPoint x="300" y="148.32999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-57" value="Registo Cliente" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="80" as="sourcePoint" />
+            <mxPoint x="290" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-58" value="Reserva quarto" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-1" target="TRqUTvNIFAxU2LXoDbBm-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="29.99999999999997" as="sourcePoint" />
+            <mxPoint x="285" y="61.66999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

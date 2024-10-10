@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="699" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,19 @@
           <mxGeometry x="40" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-2" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW180623992 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW180623992 BCX0&quot;&gt;- Autenticar &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW180623992 BCX0&quot;&gt;com &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW180623992 BCX0&quot;&gt;reserva&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW180623992 BCX0&quot;&gt; quarto&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW180623992 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="260" width="140" height="70" as="geometry" />
+          <mxGeometry x="40" y="287" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-3" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW109686073 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW109686073 BCX0&quot;&gt;- &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW109686073 BCX0&quot;&gt;Consultar serviços disponíveis e preços&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW109686073 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="80" width="140" height="70" as="geometry" />
+          <mxGeometry x="418" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-4" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW32491162 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW32491162 BCX0&quot;&gt;- &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW32491162 BCX0&quot;&gt;Adicionar&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW32491162 BCX0&quot;&gt; &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW32491162 BCX0&quot;&gt;S&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW32491162 BCX0&quot;&gt;erviço de &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW32491162 BCX0&quot;&gt;Quarto&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW32491162 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="80" width="140" height="70" as="geometry" />
+          <mxGeometry x="230" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-5" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW235727160 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW235727160 BCX0&quot;&gt;- Atualizar Serviço de Quarto&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW235727160 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="260" width="140" height="70" as="geometry" />
+          <mxGeometry x="230" y="287" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-6" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW94446775 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW94446775 BCX0&quot;&gt;- Apagar Serviço de Quarto&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW94446775 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="260" width="140" height="70" as="geometry" />
+          <mxGeometry x="418" y="287" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TRqUTvNIFAxU2LXoDbBm-14" target="TRqUTvNIFAxU2LXoDbBm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRqUTvNIFAxU2LXoDbBm-14" value="Cliente" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="235" y="180" width="110" height="50" as="geometry" />
+          <mxGeometry x="244" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="188S0xd9ToCCXMYDWvKy-2" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW247957925 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW247957925 BCX0&quot;&gt;- Criar utilizador&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot; class=&quot;NormalTextRun SCXW247957925 BCX0&quot;&gt;/cliente&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{}&quot; class=&quot;EOP SCXW247957925 BCX0&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="80" width="140" height="70" as="geometry" />
@@ -154,11 +154,11 @@
         <mxCell id="188S0xd9ToCCXMYDWvKy-55" value="Gestor do Hotel" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="235" y="820" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="188S0xd9ToCCXMYDWvKy-56" value="Reserva quarto" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1" target="TRqUTvNIFAxU2LXoDbBm-14">
-          <mxGeometry x="0.0104" width="160" relative="1" as="geometry">
+        <mxCell id="188S0xd9ToCCXMYDWvKy-56" value="Reserva quarto" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-1" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="0.2105" y="8" width="160" relative="1" as="geometry">
             <mxPoint x="140" y="148.32999999999998" as="sourcePoint" />
             <mxPoint x="300" y="148.32999999999998" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="188S0xd9ToCCXMYDWvKy-57" value="Registo Cliente" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-1">
@@ -174,6 +174,44 @@
             <Array as="points">
               <mxPoint x="270" y="40" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-59" value="Conexão Internet" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;exitX=0.65;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-1" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="-0.1807" y="-8" width="160" relative="1" as="geometry">
+            <mxPoint x="125" y="169.99999999999997" as="sourcePoint" />
+            <mxPoint x="220" y="201.67" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-62" value="Conexão Internet" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-3" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="0.0581" y="-1" width="160" relative="1" as="geometry">
+            <mxPoint x="352" y="161" as="sourcePoint" />
+            <mxPoint x="456" y="215" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-64" value="Reserva quarto" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-2" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="0.0866" y="1" width="160" relative="1" as="geometry">
+            <mxPoint x="149" y="230" as="sourcePoint" />
+            <mxPoint x="225" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-65" value="Reserva quarto" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-5" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="0.1052" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="372.5" y="380" as="sourcePoint" />
+            <mxPoint x="448.5" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188S0xd9ToCCXMYDWvKy-66" value="Reserva quarto" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=open;startFill=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRqUTvNIFAxU2LXoDbBm-6" target="TRqUTvNIFAxU2LXoDbBm-14">
+          <mxGeometry x="-0.046" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="169" y="280" as="sourcePoint" />
+            <mxPoint x="245" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="240" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

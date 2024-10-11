@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1722" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,6 +325,15 @@
               <mxPoint x="310" y="1040" />
               <mxPoint x="70" y="1040" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nV5L1C2O95n-mxpITZTD-23" value="Hacker" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1030" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5L1C2O95n-mxpITZTD-24" value="Utilizar Reserva Roubada" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nV5L1C2O95n-mxpITZTD-23" target="nV5L1C2O95n-mxpITZTD-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590" y="1070" as="sourcePoint" />
+            <mxPoint x="750" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

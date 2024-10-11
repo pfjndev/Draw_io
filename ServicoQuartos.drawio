@@ -214,10 +214,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nV5L1C2O95n-mxpITZTD-27" value="Class1" style="swimlane;fontStyle=1;align=center;horizontal=1;startSize=30;collapsible=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="nV5L1C2O95n-mxpITZTD-27" value="Adicionar Serviço de quarto indevido" style="swimlane;fontStyle=1;align=center;horizontal=1;startSize=30;collapsible=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="1040" width="620" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="nV5L1C2O95n-mxpITZTD-28" value="Heading1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;" vertex="1" parent="nV5L1C2O95n-mxpITZTD-27">
+        <mxCell id="nV5L1C2O95n-mxpITZTD-28" value="Casos de uso indevido" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;" vertex="1" parent="nV5L1C2O95n-mxpITZTD-27">
           <mxGeometry width="580" height="620" relative="1" as="geometry">
             <mxPoint x="20" y="50" as="offset" />
           </mxGeometry>
